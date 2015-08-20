@@ -11,4 +11,4 @@ Because each reminder is dependent on your previous interactions with it. No mor
 Because you can interact with the reminder with the 2 buttons it provides.
 
 * Why water?  
-Because hydratation. 
+Because hydration. 
