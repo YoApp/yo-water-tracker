@@ -15,8 +15,12 @@ def fetch_reminders_texts():
     reader = unicodecsv.reader(response, encoding='utf-8')
 
     texts = []
+    index = 0
     for row in reader:
+        if index == 0:
+            continue  # header line
         texts.append(row)
+        index += 1
 
     texts = [list(x) for x in zip(*texts)]
     return texts
