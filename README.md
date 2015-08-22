@@ -1,4 +1,4 @@
-# Yo Water is a smart interactive water reminder.
+# Yo Water Tracker - a smart interactive water consumption tracker.
 
 ![](http://cl.ly/image/2o1n313O2f3D/water.png)
 
